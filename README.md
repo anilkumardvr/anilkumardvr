@@ -326,9 +326,9 @@ Specializing in **Kubernetes (AKS)** · **Terraform** · **CI/CD** · **Observab
 
     <div align="center">
 
-    **💡 "Automate the boring. Engineer the extraordinary. Share the knowledge."**
+    💡 "Automate the boring. Engineer the extraordinary. Share the knowledge."
 
-    *Thanks for visiting! If you find my work helpful, give a ⭐ to my repos — it means a lot!*
+    Thanks for visiting! If you find my work helpful, give a ⭐ to my repos — it means a lot!
 
     </div>
 
