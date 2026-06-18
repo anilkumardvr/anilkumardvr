@@ -59,283 +59,246 @@ Specializing in **Kubernetes (AKS)** · **Terraform** · **CI/CD** · **Observab
 
 ---
 
-    <!--                    ANIMATED SKILLS SECTION                 -->
     <!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED SKILLS SECTION                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-    <div align="center">
+<div align="center">
 
-    ## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-    <!-- ── TYPING SVG 2 - SKILLS ── -->
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F7931E&center=true&vCenter=true&width=700&lines=☁️+Cloud+Platforms...;⚙️+Container+%26+Orchestration...;🏗️+Infrastructure+as+Code...;🔄+DevOps+%26+CI%2FCD...;📊+Observability+%26+Monitoring...;🗄️+Distributed+Systems...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F7931E&center=true&vCenter=true&width=700&lines=☁️+Cloud+Platforms...;⚙️+Container+%26+Orchestration...;🏗️+Infrastructure+as+Code...;🔄+DevOps+%26+CI%2FCD...;📊+Observability+%26+Monitoring...;🗄️+Distributed+Systems...)](https://git.io/typing-svg)
 
-    </div>
+</div>
 
-    <br/>
+---
 
-    <div align="center">
+### ☁️ Cloud Platforms
 
-    ### ☁️ Cloud Platforms
+<div align="center">
 
-    ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-    </div>
+</div>
 
-    <br/>
+---
 
-    <table align="center" width="90%">
-    <tr>
-    <td align="center" width="33%">
+### ⚙️ Containers & Orchestration
 
-    ### ⚙️ Containers & Orchestration
-    ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-    ![AKS](https://img.shields.io/badge/AKS-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+<div align="center">
 
-    </td>
-    <td align="center" width="33%">
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-    ### 🏗️ Infrastructure as Code
-    ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-    ![ARM](https://img.shields.io/badge/ARM_Templates-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-    ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+</div>
 
-    </td>
-    <td align="center" width="33%">
+### 🏗️ Infrastructure as Code
 
-    ### 🔄 DevOps & CI/CD
-    ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-    ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-    ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-    ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+<div align="center">
 
-    </td>
-    </tr>
-    <tr>
-    <td align="center" width="33%">
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Templates-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-    ### 💻 Programming & Scripting
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-    ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+</div>
 
-    </td>
-    <td align="center" width="33%">
+### 🔄 DevOps & CI/CD
 
-    ### 📊 Observability & Monitoring
-    ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-    ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-    ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-    ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elastic&logoColor=white)
+<div align="center">
 
-    </td>
-    <td align="center" width="33%">
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-    ### 🗄️ Distributed Systems & Data
-    ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-    ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+</div>
 
-    </td>
-    </tr>
-    <tr>
-    <td align="center" colspan="3">
+### 💻 Programming & Scripting
 
-    ### 🐧 Linux & Systems
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
 
-    </td>
-    </tr>
-    </table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-    ---
+</div>
 
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <!--                   PROFESSIONAL EXPERIENCE                  -->
-    <!-- ═══════════════════════════════════════════════════════════ -->
+### 📊 Observability & Monitoring
 
-    <div align="center">
+<div align="center">
 
-    ## 💼 Professional Experience
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=🔷+Kyndryl+%7C+Senior+DevOps+Engineer+%7C+2026–Present;🔷+First+National+Financial+%7C+Azure+Infra+Eng+%7C+2023–2026;🔷+ADP+%7C+DevOps+%2F+Azure+Engineer+%7C+2019–2023;🔷+Gemini+Consulting+%7C+Software+Engineer+%7C+2017–2019)](https://git.io/typing-svg)
+</div>
 
-    </div>
+### 🗄️ Distributed Systems & Data
 
-    <br/>
+<div align="center">
 
-    <table align="center" width="90%">
-    <tr>
-    <td width="50%" valign="top">
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-    ### 🔷 Kyndryl | Toronto, ON
-    **Senior DevOps Engineer | AI Infra & Platform Eng**
-    `April 2026 – Present`
+</div>
 
-    - Designed & operated **AKS platforms** for enterprise workloads
-    - Automated infra with **Terraform**, Python & Bash
-    - Deployed **RabbitMQ, ActiveMQ Artemis, Couchbase, MinIO, Memcached** on K8s
-    - Secured secrets via **Azure Key Vault + Workload Identity + CSI Driver**
-    - Built reusable architectures: **StatefulSets, Gateway API, HealthCheckPolicies**
-    - Built runbooks & automation frameworks for cloud operations
+### 🐧 Linux & Systems
 
-    </td>
-    <td width="50%" valign="top">
+<div align="center">
 
-    ### 🔷 First National Financial | Toronto, ON
-    **Azure Cloud Infrastructure Engineer**
-    `February 2023 – April 2026`
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    - Built & maintained **Azure cloud infrastructure** for production environments
-    - Reusable **CI/CD pipelines** across multiple application environments
-    - Led migration of **VM-based workloads → Kubernetes**
-    - Implemented observability: **Azure Monitor, Prometheus, Grafana, ELK**
-    - Disaster recovery using **Velero** backup & restore strategies
-    - Developed standardized IaC patterns & reusable infrastructure components
+</div>
 
-    </td>
-    </tr>
-    <tr>
-    <td width="50%" valign="top">
+---
 
-    ### 🔷 ADP | Chennai, India
-    **DevOps Engineer / Azure Engineer**
-    `October 2019 – February 2023`
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   PROFESSIONAL EXPERIENCE                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-    - Administered **Linux servers (RHEL & Ubuntu)** — hardening & troubleshooting
-    - Managed **Windows Server** with IIS hosting & application deployments
-    - Cloud storage, backup automation & object storage support
-    - Monitored web & mobile applications for performance & uptime
+<div align="center">
 
-    </td>
-    <td width="50%" valign="top">
+## 💼 Professional Experience
 
-    ### 🔷 Gemini Consulting | Odisha, India
-    **Software Engineer**
-    `December 2017 – October 2019`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=🔷+Kyndryl+%7C+Senior+DevOps+Engineer+%7C+2026–Present;🔷+First+National+Financial+%7C+Azure+Infra+Eng+%7C+2023–2026;🔷+ADP+%7C+DevOps+%2F+Azure+Engineer+%7C+2019–2023;🔷+Gemini+Consulting+%7C+Software+Engineer+%7C+2017–2019)](https://git.io/typing-svg)
 
-    - Administered Linux/Unix servers & configured **Nagios monitoring**
-    - Implemented **AWS infrastructure** (EC2, Auto Scaling, Load Balancers)
-    - Firewall configurations & compliance monitoring for system security
-    - Cross-functional collaboration & stakeholder communication
+</div>
 
-    </td>
-    </tr>
-    </table>
+---
 
-    ---
+### 🔷 Kyndryl | Toronto, ON
+**Senior DevOps Engineer | AI Infra & Platform Engineering**
+`April 2026 – Present`
 
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <!--                   GITHUB STATS SECTION                     -->
-    <!-- ═══════════════════════════════════════════════════════════ -->
+- Designed & operated **AKS platforms** for enterprise workloads
+- Automated infra with **Terraform**, Python & Bash
+- Deployed **RabbitMQ, ActiveMQ Artemis, Couchbase, MinIO, Memcached** on K8s
+- Secured secrets via **Azure Key Vault + Workload Identity + CSI Driver**
+- Built reusable architectures: **StatefulSets, Gateway API, HealthCheckPolicies**
+- Built runbooks & automation frameworks for cloud operations
 
-    <div align="center">
+---
 
-    ## 📊 GitHub Stats
+### 🔷 First National Financial | Toronto, ON
+**Azure Cloud Infrastructure Engineer**
+`February 2023 – April 2026`
 
-    <table width="90%">
-    <tr>
-    <td align="center" width="50%">
+- Built & maintained **Azure cloud infrastructure** for production environments
+- Reusable **CI/CD pipelines** across multiple application environments
+- Led migration of **VM-based workloads → Kubernetes**
+- Implemented observability: **Azure Monitor, Prometheus, Grafana, ELK**
+- Disaster recovery using **Velero** backup & restore strategies
+- Developed standardized IaC patterns & reusable infrastructure components
 
-    ![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkumardvr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+---
 
-    </td>
-    <td align="center" width="50%">
+### 🔷 ADP | Chennai, India
+**DevOps Engineer / Azure Engineer**
+`October 2019 – February 2023`
 
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumardvr&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
+- Administered **Linux servers (RHEL & Ubuntu)** — hardening & troubleshooting
+- Managed **Windows Server** with IIS hosting & application deployments
+- Cloud storage, backup automation & object storage support
+- Monitored web & mobile applications for performance & uptime
 
-    </td>
-    </tr>
-    <tr>
-    <td align="center" colspan="2">
+---
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anilkumardvr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🔷 Gemini Consulting | Odisha, India
+**Software Engineer**
+`December 2017 – October 2019`
 
-    </td>
-    </tr>
-    </table>
+- Administered Linux/Unix servers & configured **Nagios monitoring**
+- Implemented **AWS infrastructure** (EC2, Auto Scaling, Load Balancers)
+- Firewall configurations & compliance monitoring for system security
+- Cross-functional collaboration & stakeholder communication
 
-    </div>
+---
 
-    ---
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <!--                 ACTIVITY GRAPH SECTION                     -->
-    <!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
-    <div align="center">
+## 📊 GitHub Stats
 
-    ## 📈 Contribution Activity
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkumardvr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumardvr&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
 
-    [![Anil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anilkumardvr&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anilkumardvr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-    </div>
+</div>
 
-    ---
+---
 
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <!--                   TROPHIES SECTION                         -->
-    <!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 ACTIVITY GRAPH SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-    <div align="center">
+<div align="center">
 
-    ## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-    [![trophy](https://github-profile-trophy.vercel.app/?username=anilkumardvr&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anilkumardvr&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-    </div>
+</div>
 
-    ---
+---
 
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <!--             CERTIFICATIONS & EDUCATION                     -->
-    <!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   TROPHIES SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-    <div align="center">
+<div align="center">
 
-    ## 🏅 Certifications & 🎓 Education
+## 🏆 GitHub Trophies
 
-    <table width="90%">
-    <tr>
-    <td align="center" width="50%">
+[![trophy](https://github-profile-trophy.vercel.app/?username=anilkumardvr&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-    ### 🏅 Certifications
+</div>
 
-    | Badge | Certification |
-    |:---:|:---|
-    | 🟢 | **Google Cloud Professional Cloud DevOps Engineer** |
+---
 
-    </td>
-    <td align="center" width="50%">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--             CERTIFICATIONS & EDUCATION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-    ### 🎓 Education
+<div align="center">
 
-    | Degree | Institution |
-    |:---:|:---|
-    | 🎓 | **M.Sc. Agile Project Management** — Northeastern University, Toronto |
-    | 🎓 | **B.Tech Computer Science** — Acharya Nagarjuna University, India |
+## 🏅 Certifications & 🎓 Education
 
-    </td>
-    </tr>
-    </table>
+</div>
 
-    </div>
+### 🏅 Certifications
 
-    ---
+| Badge | Certification |
+|:---:|:---|
+| 🟢 | **Google Cloud Professional Cloud DevOps Engineer** |
 
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <!--                   SOCIAL MEDIA SECTION                     -->
+### 🎓 Education
+
+| Degree | Institution |
+|:---:|:---|
+| 🎓 | **M.Sc. Agile Project Management** — Northeastern University, Toronto |
+| 🎓 | **B.Tech Computer Science** — Acharya Nagarjuna University, India |
+
+---
+
+<!--                   SOCIAL MEDIA SECTION                     -->
     <!-- ═══════════════════════════════════════════════════════════ -->
 
     <div align="center">
