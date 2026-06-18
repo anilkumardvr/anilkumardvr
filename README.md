@@ -25,6 +25,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      ABOUT ME SECTION                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -32,36 +33,32 @@
 
 ## 🚀 About Me
 
+### 👨‍💻 Who Am I?
+
+**Senior DevOps Engineer** with **7+ years** designing, automating, and operating scalable **cloud-native infrastructure** across Azure and multi-cloud environments.
+
+Specializing in **Kubernetes (AKS)** · **Terraform** · **CI/CD** · **Observability** · **Distributed Systems**
+
+> *Building secure, reliable, highly available platforms — one pipeline at a time.*
+
 </div>
 
-<table align="center" width="90%">
-<tr>
-  <td width="50%" valign="top">
+---
 
-    ### 👨‍💻 Who Am I?
-    Senior DevOps Engineer with **7+ years** designing, automating, and operating scalable **cloud-native infrastructure** across Azure and multi-cloud environments.
+### ⚡ Quick Facts
 
-    Specializing in **Kubernetes (AKS)**, **Terraform**, **CI/CD**, **observability**, and **distributed systems** — building secure, reliable, highly available platforms.
+| | |
+|---|---|
+| 🏢 **Current Role** | Senior DevOps Engineer @ **Kyndryl** — AI Infrastructure & Platform Engineering |
+| ☁️ **Cloud** | Azure · AWS · GCP multi-cloud architect |
+| 🔐 **Secrets Mgmt** | Key Vault · Workload Identity · CSI |
+| 📦 **Distributed Systems** | RabbitMQ · Couchbase · MinIO · Memcached |
+| 🏆 **Certified** | Google Cloud Professional DevOps Engineer |
+| 📹 **Content Creator** | DevOps content on **YouTube & Instagram** |
+| 🎯 **Passionate About** | Developer enablement & Infrastructure as Code |
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-    ### ⚡ Quick Facts
-    - 🏢 **@Kyndryl** — AI Infrastructure & Platform Engineering
-    - ☁️ **Azure · AWS · GCP** multi-cloud architect
-    - 🔐 **Secrets Mgmt**: Key Vault · Workload Identity · CSI
-    - 📦 **Distributed**: RabbitMQ · Couchbase · MinIO · Memcached
-    - 🏆 **Google Cloud Certified** DevOps Engineer
-    - 📹 Creating DevOps content on **YouTube & Instagram**
-    - 🎯 Passionate about **developer enablement & IaC**
-
-    </td>
-    </tr>
-    </table>
-
-    ---
-
-    <!-- ═══════════════════════════════════════════════════════════ -->
     <!--                    ANIMATED SKILLS SECTION                 -->
     <!-- ═══════════════════════════════════════════════════════════ -->
 
