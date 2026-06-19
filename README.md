@@ -299,38 +299,88 @@ Specializing in **Kubernetes (AKS)** · **Terraform** · **CI/CD** · **Observab
 ---
 
 <!--                   SOCIAL MEDIA SECTION                     -->
-    <!-- ═══════════════════════════════════════════════════════════ -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT & FOLLOW                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-    <div align="center">
+<div align="center">
 
-    ## 📱 Connect & Follow
+## 🌐 Let's Connect
 
-    [![YouTube](https://img.shields.io/badge/YouTube-22%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akaweird_villie)
-    [![Instagram](https://img.shields.io/badge/Instagram-611%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akaweird_villie/)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumardevandla/)
-    [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anilkumardvr)
-    [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumardevandla21@gmail.com)
+<p align="center">
+  <a href="https://www.youtube.com/@akaweird_villie">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=22+Subscribers" alt="YouTube"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/akaweird_villie/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=611+Followers" alt="Instagram"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/anilkumardevandla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://medium.com/@anilkumardvr">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&label=Follow" alt="Medium"/>
+  </a>&nbsp;
+  <a href="mailto:anilkumardevandla21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email+Me" alt="Email"/>
+  </a>
+</p>
 
-    <br/>
+<br/>
 
-    <!-- ── ANIMATED TYPING LINE 3 - CONNECT ── -->
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=600&lines=📹+Sharing+DevOps+knowledge+on+YouTube...;📸+Behind+the+scenes+on+Instagram...;✍️+Deep+dives+on+Medium...;💼+Let's+connect+on+LinkedIn!)](https://git.io/typing-svg)
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.youtube.com/@akaweird_villie">
+        <img src="https://img.shields.io/badge/📹_YouTube-DevOps_Tutorials-FF0000?style=flat-square" alt="YouTube"/><br/>
+        <sub><b>DevOps & Cloud Videos</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://medium.com/@anilkumardvr">
+        <img src="https://img.shields.io/badge/✍️_Medium-Technical_Writing-12100E?style=flat-square" alt="Medium"/><br/>
+        <sub><b>In-depth Articles</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/anilkumardevandla/">
+        <img src="https://img.shields.io/badge/💼_LinkedIn-Professional-0077B5?style=flat-square" alt="LinkedIn"/><br/>
+        <sub><b>Career & Networking</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.instagram.com/akaweird_villie/">
+        <img src="https://img.shields.io/badge/📸_Instagram-Behind_the_scenes-E4405F?style=flat-square" alt="Instagram"/><br/>
+        <sub><b>Day-to-Day Life</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-    </div>
+<br/>
 
-    ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=📹+Sharing+DevOps+%26+Cloud+knowledge+on+YouTube...;✍️+Deep-dive+technical+articles+on+Medium...;📸+Behind+the+scenes+on+Instagram...;💼+Open+to+collaborations+—+let's+connect+on+LinkedIn!;📧+Reach+me+at+anilkumardevandla21%40gmail.com)](https://git.io/typing-svg)
 
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <!--                   ANIMATED FOOTER BANNER                   -->
-    <!-- ═══════════════════════════════════════════════════════════ -->
+</div>
 
-    <div align="center">
+---
 
-    **💡 "Automate the boring. Engineer the extraordinary. Share the knowledge."**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED FOOTER BANNER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-    *Thanks for visiting! If you find my work helpful, give a ⭐ to my repos — it means a lot!*
+<div align="center">
 
-    </div>
+<br/>
 
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0E75B6,100:0D1117&height=120&section=footer&animation=fadeIn"/>
+> 💡 *"Automate the boring. Engineer the extraordinary. Share the knowledge."*
+
+<br/>
+
+⭐ **If you find my work helpful, drop a star on my repos — it means the world!** ⭐
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0E75B6,100:0D1117&height=120&section=footer&animation=fadeIn"/>
 </tr>
