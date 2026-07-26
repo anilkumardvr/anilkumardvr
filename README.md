@@ -17,7 +17,7 @@
 
 </div>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8B0000,100:E50914&height=4&animation=twinkling"/>
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Proven expertise in developer platforms, GitOps workflows, reusable deployment p
 </tr>
 </table>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8B0000,100:E50914&height=4&animation=twinkling"/>
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Proven expertise in developer platforms, GitOps workflows, reusable deployment p
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8B0000,100:E50914&height=4&animation=twinkling"/>
 
 <div align="center">
 
@@ -179,7 +179,23 @@ Proven expertise in developer platforms, GitOps workflows, reusable deployment p
 
 </details>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8B0000,100:E50914&height=4&animation=twinkling"/>
+
+<div align="center">
+
+## ◼ CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkumardvr/anilkumardvr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilkumardvr/anilkumardvr/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anilkumardvr/anilkumardvr/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>🐍 Generated automatically from my contribution graph via GitHub Actions — updates daily</sub>
+
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8B0000,100:E50914&height=4&animation=twinkling"/>
 
 <div align="center">
 
@@ -198,7 +214,7 @@ Proven expertise in developer platforms, GitOps workflows, reusable deployment p
 
 </div>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8B0000,100:E50914&height=4&animation=twinkling"/>
 
 <div align="center">
 
@@ -212,7 +228,7 @@ Proven expertise in developer platforms, GitOps workflows, reusable deployment p
 | Microsoft Azure Fundamentals (AZ-900) | B.Tech Computer Science — Acharya Nagarjuna University, India |
 | Microsoft Azure Administrator Associate (AZ-104) | |
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:8B0000,100:E50914&height=4&animation=twinkling"/>
 
 <div align="center">
 
